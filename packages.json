@@ -3,7 +3,7 @@
      {
          "name": "mvsendgrid",
          "version": "1.0.0",
-         "path": "path to file".
+         "path": "path to file",
          "dependenc": "1.7.0"
       }
 }
